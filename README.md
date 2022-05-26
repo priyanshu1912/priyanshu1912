@@ -1,4 +1,4 @@
-### Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+### Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 - 👋 Hi, My name is Priyanshu Bhardwaj
 - 🌱 I’m currently learning Data Analytics using Python
