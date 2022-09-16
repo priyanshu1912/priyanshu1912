@@ -1,4 +1,4 @@
-### Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="10px">
+### Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 - 👋 Hi, My name is Priyanshu Bhardwaj
 - 📫 You can contact me through my e-mail - priyanshubhardwaj19dec@gmail.com
