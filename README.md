@@ -5,7 +5,7 @@
   
   <ul>
     <li>
-      Reach out to me on <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/> priyanshubhardwaj19dec@gmail.com
+      Reach out to me on :envelope: priyanshubhardwaj19dec@gmail.com
     </li>
     </ul>
 </p>
