@@ -5,7 +5,7 @@
   
   Reach out to me on :envelope: priyanshubhardwaj19dec@gmail.com
   <br/>
-  Checkout my :page_facing_up: <a href="https://drive.google.com/file/d/1neuPBePSu7FVteGkZ1kIWYy-_Y9aeZdn/view?usp=share_link">Resume</a>
+  Checkout my :page_facing_up: <a href="https://drive.google.com/file/d/1neuPBePSu7FVteGkZ1kIWYy-_Y9aeZdn/view?usp=share_link" target="__blank">Resume</a>
 </p>
 
 
