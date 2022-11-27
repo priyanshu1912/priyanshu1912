@@ -3,7 +3,7 @@
 - 👋 Hi, This is Priyanshu Bhardwaj
 - 📫 You can contact me through my mail-ID - priyanshubhardwaj19dec@gmail.com
 
-<div style="display:flex;">
+<div style="display:flex;align-items:flex-start;gap:20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshu1912&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1912&show_icons=true&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </div>
