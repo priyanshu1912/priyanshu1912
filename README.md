@@ -23,6 +23,9 @@
 
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshu1912&show_icons=true&theme=gotham"/>
+<div style="display:flex;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshu1912&show_icons=true&theme=gotham"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1912&theme=gotham" />
+  </div>
 
   </div>
