@@ -19,7 +19,9 @@
 </div>
 
 
-<img src="https://skillicons.dev/icons?i=react,ts,redux,nestjs,js,git,vscode,tailwind,nodejs,netlify,mysql,mongodb,materialui,jest,html,heroku,express,css,firebase,github" />
+  <div style="margin-top:10px; margin-bottom:10px;">
+    <img src="https://skillicons.dev/icons?i=react,ts,redux,nestjs,js,git,vscode,tailwind,nodejs,netlify,mysql,mongodb,materialui,jest,html,heroku,express,css,firebase,github" />
+  </div>
 
 
 
