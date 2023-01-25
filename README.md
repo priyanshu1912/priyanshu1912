@@ -23,7 +23,9 @@
 <img src="https://skillicons.dev/icons?i=react,ts,redux,nestjs,js,git,vscode,tailwind,nodejs,netlify,mysql,mongodb,materialui,jest,html,heroku,express,css,firebase,github" />
 
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshu1912&show_icons=true&theme=gotham"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1912&theme=gotham&layout=compact" />
+<div style="display:flex;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshu1912&show_icons=true&theme=gotham" style="flex-basis:60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1912&theme=gotham&layout=compact" style="flex-basis:40%" />
+  </div>
 
   </div>
