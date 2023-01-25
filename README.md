@@ -1,6 +1,6 @@
 # Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> , I'm Priyanshu Bhardwaj!
 
-<div style="display:flex; flex-direction:column; gap:5px;">
+<div style="display:flex; flex-direction:column; gap:20px;">
   
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
