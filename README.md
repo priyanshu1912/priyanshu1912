@@ -9,7 +9,7 @@
 </p>
 
 
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="200px" />
+<img src="https://skillicons.dev/icons?i=react,ts,redux,nestjs,js,git" width="200px" />
 
 
 
