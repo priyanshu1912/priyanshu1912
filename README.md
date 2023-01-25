@@ -1,6 +1,7 @@
 # Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> , I'm Priyanshu Bhardwaj!
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <p>
   I'm currently pursuing my Bachelor's in B.Tech in Information Technology :man_technologist: from Amity University. I'm a passionate learner who's always willing to learn and work across technologies and domains :innocent:. I have good knowledge and experience in working as a Frontend Developer. Nowadays, I'm learning Mobile App Development :iphone: using React Native and working on Data structure and Algorithms.
