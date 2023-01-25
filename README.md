@@ -9,5 +9,12 @@
 </p>
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshu1912&show_icons=true&theme=gotham"/>
