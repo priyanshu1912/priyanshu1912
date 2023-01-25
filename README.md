@@ -9,7 +9,7 @@
 </p>
 
 
-<img src="https://skillicons.dev/icons?i=react,ts,redux,nestjs,js,git,vscode,tailwind,nodejs,netlify,mysql,mongodb,materialui,jest,html,heroku,express,css" width="200px" />
+<img src="https://skillicons.dev/icons?i=react,ts,redux,nestjs,js,git,vscode,tailwind,nodejs,netlify,mysql,mongodb,materialui,jest,html,heroku,express,css" />
 
 
 
