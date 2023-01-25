@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="50px" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="200px" />
   </a>
 </p>
 
