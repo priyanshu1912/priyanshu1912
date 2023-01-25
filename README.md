@@ -19,15 +19,10 @@
 </div>
 
 
-  <div style="margin-top:10px; margin-bottom:10px;">
-    <img src="https://skillicons.dev/icons?i=react,ts,redux,nestjs,js,git,vscode,tailwind,nodejs,netlify,mysql,mongodb,materialui,jest,html,heroku,express,css,firebase,github" />
-  </div>
+<img src="https://skillicons.dev/icons?i=react,ts,redux,nestjs,js,git,vscode,tailwind,nodejs,netlify,mysql,mongodb,materialui,jest,html,heroku,express,css,firebase,github" />
 
 
-
-<div style="display:flex;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshu1912&show_icons=true&theme=gotham"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1912&theme=gotham&layout=compact" />
-  </div>
 
   </div>
