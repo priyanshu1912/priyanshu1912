@@ -24,9 +24,6 @@
 </div>
 
   </br>
-<div>
-  I'm currently pursuing my Bachelor's in B.Tech in Information Technology :man_technologist: from Amity University. I'm a passionate learner who's always willing to learn and work across technologies and domains :innocent:. I have good knowledge and experience in working as a Frontend Developer. Nowadays, I'm learning Mobile App Development :iphone: using React Native and working on Data structure and Algorithms.
-</div>
 
 <br/>
 
